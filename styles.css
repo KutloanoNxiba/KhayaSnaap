@@ -1,0 +1,14 @@
+:root{
+--deep-tech-blue: #0f1724; /* for slight contrast */
+--gold: #d4af37;
+--bg: #f9fafb;
+--text: #111827;
+--muted: #6b7280;
+--container: 1100px;
+font-family: 'Poppins', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+}
+
+
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--text);line-
